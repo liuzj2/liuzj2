@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @liuzj2
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Edwin Liu
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning java \ c \ c++ \oracle \ mysql 
 - 💞️ I’m looking to collaborate on  java web coding 
 - 📫 my email: liuzj2@maitewang.com 
